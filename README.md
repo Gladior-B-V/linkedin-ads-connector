@@ -1,6 +1,5 @@
 # Linkedin Ads Connector
 
-for Google Data Studio
 With the LinkedIn Ads Connector for Google Data Studio you can report the most important statistics of your LinkedIn Ads Connector. When you connect LinkedIn Ads to Data Studio (with our connector) it will bring you some advantages, for example:
 
 - You can combine the data with other sources to get new insights
